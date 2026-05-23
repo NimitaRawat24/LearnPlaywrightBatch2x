@@ -22,6 +22,16 @@ LearnPlaywrightBatch2x/
 │   ├── 04_Naming_Conventions.js        # Naming conventions (camelCase, PascalCase, etc.)
 │   └── VS_Code_keyboard_shortcut_windows.md  # VS Code keyboard shortcuts reference
 │
+├── chapter_07_if_else/
+│   ├── 18_if_else.js
+│   ├── 19_if_else_02.js
+│   ├── 20_IQ_if_else.js
+│   ├── 21_Task.js
+│   └── 22_Task2.js
+│
+├── chapter_08_switch_case.js/
+│   └── 23_switchcase1.js
+│
 └── README.md                     # This file
 ```
 
@@ -77,6 +87,30 @@ LearnPlaywrightBatch2x/
    - Tips and tricks
    - Common workflows
    - Quick reference guide
+
+### Chapter 7: if / else
+**Focus**: Conditional logic and decision-making in JavaScript
+- if / else statements
+- else if chains
+- boolean conditions
+- practical exercise examples
+
+**Files**:
+- `18_if_else.js` - Basic if / else examples
+- `19_if_else_02.js` - Extended condition patterns
+- `20_IQ_if_else.js` - Interview-style if / else questions
+- `21_Task.js` - Practice task using conditionals
+- `22_Task2.js` - Additional if / else exercises
+
+### Chapter 8: switch / case
+**Focus**: Switch-case control flow and branch selection
+- switch statements
+- case ordering and fallthrough
+- default handling
+- comparisons with if / else
+
+**Files**:
+- `23_switchcase1.js` - switch-case examples and practice
 
 ## 🚀 Getting Started
 
@@ -233,7 +267,9 @@ For questions, suggestions, or feedback:
    - Study 04_Naming_Conventions.js
    - Reference VS_Code_keyboard_shortcut_windows.md
 4. Chapter 2: JavaScript Concepts (coming soon)
-5. Advanced topics (coming soon)
+4. Chapter 7: if / else
+5. Chapter 8: switch / case
+6. Advanced topics (coming soon)
 
 ## 🔄 Version History
 
@@ -241,6 +277,6 @@ For questions, suggestions, or feedback:
 
 ---
 
-**Last Updated**: May 8, 2026  
+**Last Updated**: May 23, 2026  
 **Repository**: [LearnPlaywrightBatch2x](https://github.com/NimitaRawat24/LearnPlaywrightBatch2x)  
 **Status**: Active Development 🚀
